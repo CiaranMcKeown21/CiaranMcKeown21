@@ -1,4 +1,7 @@
 ## Hi there 👋
+### 🎮 Play My Snake Game  
+[Play Here](https://ciaranmckeown21.github.io/snake-game/)  
+
 
 <!--
 **CiaranMcKeown21/CiaranMcKeown21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
