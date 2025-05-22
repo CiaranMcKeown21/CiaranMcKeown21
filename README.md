@@ -26,7 +26,6 @@
 
 #### 🛠 Backend & DevOps
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
@@ -62,18 +61,6 @@
 ### ✍️ Latest Blog Posts
 
 ***Coming Soon***
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/CiaranMcKeown21)
-
----
-
-### 🐍 GitHub Activity Snake
-
-![GitHub Snake](https://github.com/CiaranMcKeown21/CiaranMcKeown21/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
