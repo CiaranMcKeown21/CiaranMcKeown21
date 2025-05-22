@@ -1,6 +1,4 @@
 ## Hi there 👋
-### 🎮 Play My Snake Game  
-[Play Here](https://ciaranmckeown21.github.io/snake-game/)  
 
 
 <!--
