@@ -46,7 +46,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CiaranMcKeown21&theme=radical" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CiaranMcKeown21&theme=whatsapp-dark2&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </p>
 
 ---
